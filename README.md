@@ -19,7 +19,7 @@ Repo: https://github.com/leeshinyee/solar-panel-defect-cnn-vs-vit
 
 ### Great Malaysia AI Hackathon (Mar 2025) — Churn Prediction
 - Built churn prediction models using **Random Forest, Naïve Bayes, and AWS SageMaker AutoML**, achieving **95% accuracy**.  
-Repo (if available): https://github.com/leeshinyee/Customer-Churn
+Repo: https://github.com/leeshinyee/Customer-Churn
 
 ### QS Reimagine & The Meta Llama Impact Innovation Awards — AI Tool Concept/Prototype
 - Developed an AI-powered academic performance tool using **GPT** to analyze uploaded PDFs, detect academic errors, generate reports with graphs, and provide personalized improvement suggestions.  
